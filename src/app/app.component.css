@@ -1,0 +1,10 @@
+.logo-with-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.logo-item {
+  margin: 20px;
+  object-fit: contain;
+  max-height: 500px;
+}
